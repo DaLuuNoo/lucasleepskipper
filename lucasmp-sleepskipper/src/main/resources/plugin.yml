@@ -1,0 +1,4 @@
+name: LucasmpSleepskipper
+version: 1.0
+main: org.lucadev.lucasmpsleepskipper.LucaSleepSkipper
+api-version: 1.21
